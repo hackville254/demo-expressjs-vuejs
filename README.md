@@ -83,3 +83,4 @@ Vous pouvez personnaliser l'application en modifiant les fichiers `index.js`, `m
 Ce projet vous donne une base solide pour créer une application Express.js avec une base de données SQLite et une interface utilisateur Vue.js. Vous pouvez l'utiliser comme point de départ pour développer des fonctionnalités plus avancées ou l'adapter à vos propres besoins.
 
 J'espère que cette documentation vous aide à comprendre le projet et à commencer à l'utiliser. N'hésitez pas à me contacter si vous avez des questions supplémentaires.
+@Franklin
