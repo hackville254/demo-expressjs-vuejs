@@ -28,16 +28,16 @@ Suivez les étapes ci-dessous pour installer et exécuter le projet :
    ```
    cd demo-expressjs-vuejs
    ```
-  Accédez au répertoire du server :
-  
-     ```
-     cd server
-     ```
-  Accédez au répertoire du client :
-  
-     ```
-     cd paulAm
-     ```
+     Accédez au répertoire du server :
+     
+        ```
+        cd server
+        ```
+     Accédez au répertoire du client :
+     
+        ```
+        cd paulAm
+        ```
 
 3. Installez les dépendances du projet en exécutant la commande suivante (dans le server puis dans le client) :
 
