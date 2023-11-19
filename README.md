@@ -10,7 +10,7 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
 
 - Node.js : [Télécharger Node.js](https://nodejs.org)
 - NPM (Node Package Manager) : NPM est inclus avec Node.js
-- Nodemon `npm install -g nodemon`
+- Nodemon ```npm install -g nodemon```
 
 
 ## Installation
